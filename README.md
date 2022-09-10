@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chinaezurum
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development/ cybersecurity
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on learning and building projects
 - 📫 How to reach me ...
